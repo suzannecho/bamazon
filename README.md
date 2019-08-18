@@ -9,11 +9,15 @@
 
 ### Dependencies
 **MySQL
+
 **Cli-Table
+
 **Inquirer
 
 #### Technologies Used
+
 **Node.JS
+
 **Javascript
 
 
