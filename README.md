@@ -4,8 +4,13 @@
 **https://drive.google.com/file/d/15lvi7S1o1xGqMF1qok2JjRuMEEwDzIpp/view?usp=sharing**
 
 
-![](../bamazon/images/screenshot1.jpeg)
+![Screenshot](/images/screenshot1.jpg)
 
+
+![Screenshot](/images/screenshot2.jpg)
+
+
+![Screenshot](/images/screenshot3.jpg)
 
 ### Dependencies
 **MySQL
